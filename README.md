@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Seiruchan
-- 👀 I’m interested in making websites
-- 🌱 I’m currently learning javascript
+- 👋 Hi, Myself @SAHIL WAIRKAR
+- 👀 I’m interested in making websites / software applications
+- 🌱 I’m currently looking for opportunites in the same field
 - 📫 How to reach me -> email at sahilwairkar800@gmail.com
 
 <!---
